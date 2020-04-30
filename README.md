@@ -7,7 +7,7 @@ included in the rendered document as an image.
 ## Usage
 
 ```rst
-Here are 12 notes.
+Here are 12 notes on a staff.
 
 .. abc::
 
