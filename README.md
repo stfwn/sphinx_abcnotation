@@ -21,3 +21,14 @@ Here are 12 notes on a staff.
 Here are 12 notes on a staff.
 
 ![](example.svg)
+
+## Install
+
+1. `pip install sphinx_abcnotation --user`
+2. Edit `conf.py` to include `sphinx_abcnotation` in the `extensions` list:
+
+    ```
+    extensions = ['sphinx_abcnotation']
+    ```
+
+3. Use the `.. abc ::` directive in your reStructuredText documents.
