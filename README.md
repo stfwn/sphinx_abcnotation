@@ -1,8 +1,8 @@
 # Sphinx ABC Notation
 
 This extension adds an `abc` directive to Sphinx. The content of the directive
-will be rendered to `svg` by [abcm2ps](https://github.com/leesavide/abcm2ps)
-and included in the rendered document as an image.
+will be rendered to SVG by [abcm2ps](https://github.com/leesavide/abcm2ps) and
+included in the rendered document.
 
 ## Usage
 
